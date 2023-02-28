@@ -444,7 +444,7 @@ body{
 }
 
 .projects #card1{
-    background-image: url("img/PORTAL.jpg");
+    background-image: url("PORTAL.jpg");
     background-color: #cccccc;
     background-position: center;
     background-repeat: no-repeat;
@@ -453,7 +453,7 @@ body{
 }
 
 .projects #card2{
-    background-image: url("img/chat.png");
+    background-image: url("chat.png");
     background-color: #cccccc;
     background-position: center;
     background-repeat: no-repeat;
@@ -461,7 +461,7 @@ body{
 
 }
 .projects #card3{
-    background-image: url("img/image.png");
+    background-image: url("image.png");
     background-color: #cccccc;
     background-position: center;
     background-repeat: no-repeat;
